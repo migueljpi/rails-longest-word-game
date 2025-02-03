@@ -13,3 +13,19 @@
  *= require_tree .
  *= require_self
  */
+/* .letter {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #0000ff;
+} */
+
+body {
+  padding: 20px;
+}
+
+.letter {
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #2828ffde;
+  color: white;
+}
